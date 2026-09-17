@@ -4,7 +4,7 @@ MedEnhance is a Django-based web application for enhancing medical images using 
 
 The application also includes user authentication, email-based OTP verification, password reset functionality, and hospital verification support.
 
-> **Note:** MedEnhance is a research/academic project and should not be considered a clinical diagnostic system or a replacement for professional medical judgment.
+> **Note:** MedEnhance is a research/academic project and should not be considered a clinical diagnostic systems or a replacement for professional medical judgment.
 
 ---
 
